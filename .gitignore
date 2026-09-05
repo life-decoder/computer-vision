@@ -1,0 +1,16 @@
+*
+!*/
+!*.py
+!*.ipynb
+!.gitignore
+.ipynb_checkpoints/
+# Images/
+# images/
+# *.png
+# *.jpg
+# *.tiff
+# *.bmp
+# Output/
+# output/
+# modified/
+# .ipynb_checkpoints/
